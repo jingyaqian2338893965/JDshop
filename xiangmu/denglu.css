@@ -1,0 +1,375 @@
+@charset "utf-8"
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.All{
+	float: left;
+	width: 100%;
+	height: 1300px;
+	background-color: rgb(255,255,255);
+}
+
+.one{
+	width: 100%;
+	float: left;
+	height: 100px;
+	display: inline-block;
+	border-bottom: 3px solid #ccc;
+}
+.one-1{
+	float: left;
+	width: 30%;
+	height: 100px;
+}
+.one-1-1{
+	float: left;
+	width: 50%;
+	height: 100px;
+}
+.one-1-1 img{
+	margin-top: 9px;
+	width: 100%;
+	height: 80px;
+}
+.one-1-2{
+	float: left;
+	width: 50%;
+	height: 100px;
+}
+.one-1-2 h1{
+	float: left;
+	margin-top: 32px;
+	margin-left: 10px;
+}
+
+.one-2{
+	float: right;
+	margin-top: 25px;
+	width: 25%;
+	height: 100px;
+}
+.one-2 span{
+	margin-left: 5px;
+	line-height: 100px;
+	color: rgb(187,187,187);
+}
+.one-2 a:hover{
+	color: red;
+	border-bottom: 1px solid red;
+}
+.one-2 img{
+	float: left;
+	margin-top: 35px;
+}
+
+.one-2 a{
+	color:  rgb(187,187,187);
+	text-decoration: none;
+	outline: none;
+}
+
+.two{
+	width: 100%;
+	float: left;
+	height: 60px;
+	display: inline-block;
+	background-color: rgb(255,248,240);
+}
+.two img{
+	float: left;
+	margin-top: 10px;
+	margin-left: 190px;
+}
+.two span{
+	float: left;
+	margin-top: 18px;
+	margin-left: 5px;
+	color:  rgb(187,187,187);
+}
+.two a{
+	color: black;
+	text-decoration: none;
+}
+.two a:hover{
+	border-bottom:1px solid black;
+}
+.three{
+	width: 100%;
+	height: 700px;
+	float: left;
+	display: inline-block;
+	background-color:rgb(255,166,0);;
+}
+.three-1{
+	float: left;
+	width: 65%;
+	height: 700px;
+	display: inline-block;
+	border-right: none;
+}
+
+.three-2{
+	float: left;
+	width: 35%;
+	height: 700px;
+	display: inline-block;
+}
+.three-2-1{
+	float: left;
+	margin-top: 20px;
+	width: 90%;
+	height: 620px;
+	display: inline-block;
+	background-color: rgb(255,255,255);
+}
+
+
+
+.three-1 img{
+	width: 100%;
+	height: 700px;
+}
+.three-2-1-1{
+	float: left;
+	width: 100%;
+	height: 70px;
+	background-color: rgb(255,248,240);
+}
+.three-2-1-1 img{
+	float: left;
+	margin-top: 15px;
+	margin-left: 38px;
+}
+
+.three-2-1-1 span{
+	float: left;
+	margin-top: 25px;
+	margin-left: 5px;
+	color:  rgb(187,187,187); 
+}
+.three-2-1-2{
+	float: left;
+	margin-top: 20px;
+	width: 100%;
+	height: 45px;
+}
+
+.three-2-1-2-1{
+	float: left;
+	width: 49.5%;
+	height: 45px;
+	border-right: 1px solid #ccc;
+}
+.three-2-1-2-1 h1{
+	margin-top: 1px;
+	margin-left: 60px;
+	color: rgb(102,102,102);
+}
+.three-2-1-2-1 h1:hover{
+	color: red;
+}
+.three-2-1-2-2{
+	float: left;
+	width: 50%;
+	height: 45px;
+}
+.three-2-1-2-2 h1{
+	margin-top: 1px;
+	margin-left: 60px;
+	color: red;
+}
+.three-2-1-3{
+	float: left;
+	margin-top: 20px;
+	width: 100%;
+	height: 390px;
+}
+
+.three-2-1-3-1{
+	float: left;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 30px;
+	height: 60px;
+	border:1px solid #ccc;
+}
+.three-2-1-3-1-1 img{
+	float: left;
+	width: 15%;
+	height: 60px;
+}
+.three-2-1-3-1-2{
+	float:left;
+	width: 85%;
+	height: 60px;
+
+
+}
+.three-2-1-3-1-2 input{
+	font-size: 23px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 17px;
+	border: none;
+	outline: none;
+
+}
+
+.three-2-1-3-2{
+	float: left;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 30px;
+	height: 60px;
+	border:1px solid #ccc;
+}
+
+.three-2-1-3-2-1 img{
+	float: left;
+	width: 15%;
+	height: 60px;
+}
+
+.three-2-1-3-2-2 input{
+	font-size: 23px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 17px;
+	border: none;
+	outline: none;
+
+}
+
+.three-2-1-3-3{
+	float: left;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 30px;
+	height: 20px;
+}
+
+.three-2-1-3-3 span{
+	float: right;
+	color: rgb(111,130,155);
+}
+
+.three-2-1-3-3 span:hover{
+	color: red;
+	border-bottom: 1px solid red;
+}
+
+.three-2-1-3-4{
+	float: left;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 30px;
+	height: 60px;
+	background-color: rgb(228,57,60);
+}
+
+.three-2-1-3-4 button{
+	color: white;
+	font-size: 28px;
+	margin-left: 40%;
+	margin-top: 10px;
+	border: none;
+	background-color: rgb(228,57,60);
+	outline: none;
+}
+
+.three-2-1-4{
+	float: left;
+	width: 100%;
+	height: 75px;
+}
+.three-2-1-4-1{
+	float: left;
+	width: 25%;
+	height: 75px;
+}
+.three-2-1-4-1 img{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.three-2-1-4-1 span{
+	color: rgb(102,102,125);
+	font-size: 20px;
+}
+
+.three-2-1-4-2{
+	float: left;
+	width: 25%;
+	height: 75px;
+}
+.three-2-1-4-2 img{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.three-2-1-4-2 span{
+	color: rgb(102,102,125);
+	font-size: 20px;
+}
+
+.three-2-1-4-3{
+	float: right;
+	width: 40%;
+	height: 75px;
+}
+
+.three-2-1-4-3 img{
+	margin-top: 25px;
+	margin-left: 20px;
+}
+
+.three-2-1-4-3 span{
+	color: rgb(102,102,125);
+	font-size: 20px;
+}
+.three-2-1-4-3 a{
+	color: red;
+	border:none;
+}
+.three-2-1-4-1 span:hover{
+	color:red;
+	border-bottom: 1px solid red;
+}
+.three-2-1-4-2 span:hover{
+	color:red;
+	border-bottom: 1px solid red;
+}
+.three-2-1-4-3 span:hover{
+	color:red;
+	border-bottom: 1px solid red;
+}
+.four{
+	width: 100%;
+	float: left;
+	height: 120px;
+	display: inline-block;
+}
+.four-1{
+	width: 100%;
+	height: 60px;
+
+}
+.four-1 span{
+	color: rgb(204,204,204);
+	float: left;
+	margin-top: 20px;
+	font-size: 17px;
+	margin-left: 160px;
+}
+.four-2 span{
+	color: rgb(204,204,204);
+	float: left;
+	margin-top: 5px;
+	font-size: 17px;
+	margin-left: 550px;
+}

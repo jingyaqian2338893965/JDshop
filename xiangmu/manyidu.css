@@ -1,0 +1,187 @@
+@charset "utf-8"
+*{
+	margin:0px;
+	padding: 0px;
+}
+.All{
+	float: left;
+	width: 100%;
+	height: 1600px;
+	background-color: rgb(255,255,255);
+}
+.one{
+	float: left;
+	width:80%;
+	height: 130px;
+	margin: 0% 10%;
+	display: inline-block;
+	border-bottom: 4px solid red; 
+}
+.one img{
+	float: left;
+	margin-top: 10px;
+	width: 250px;
+	height:120px; 
+}
+.one h1{
+	float: left;
+	margin-left: 20px;
+	margin-top: 70px;
+	color: rgb(102,102,102);
+}
+
+.two{
+	float: left;
+	width:80%;
+	height: 130px;
+	margin: 0% 10%;
+	display: inline-block;
+
+}
+.two span{
+	float: left;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.All h2{
+	float: left;
+	margin-left: 160px;
+	margin-top: 50px;
+}
+.three{
+	float: left;
+	width:80%;
+	height: 250px;
+	margin: 0% 10%;
+	display: inline-block;
+	margin-top: 15px;
+	border: 2px solid #CAFFFF;
+}
+.three-1{
+	float: left;
+	width: 100%;
+	height: 60px;
+	background-color: rgb(238,246,255);
+}
+.three-1 span:nth-child(1){
+	color: red;
+	font-size: 20px;
+	font-weight: 600;
+}	
+.three-1 span{
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.three-2{
+	float: left;
+	width: 100%;
+	height: 190px;
+}
+.three-2 input{
+	margin-left: 40px;
+	margin-top: 16px;
+	display: inline-block;
+}
+.three-2 h5{
+	display: inline-block;
+	font-size: 18px;
+}
+.four{
+	float: left;
+	width:80%;
+	height: 250px;
+	margin: 0% 10%;
+	display: inline-block;
+	margin-top: 15px;
+	border: 2px solid #CAFFFF;
+}
+.four-1{
+	float: left;
+	width: 100%;
+	height: 60px;
+	background-color: rgb(238,246,255);
+}
+.four-1 span{
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+	font-size: 18px;
+	font-weight: 600;
+}
+.four-2{
+	float: left;
+	width: 100%;
+	height: 190px;
+}
+.four-2 textarea{
+	margin-left: 80px;
+	margin-top: 16px;
+	display: inline-block;
+	width: 450px;
+	height: 150px;
+	box-shadow:3px 3px 3px -3px ;
+}
+.five{
+	float: left;
+	width:80%;
+	height: 250px;
+	margin: 0% 10%;
+	display: inline-block;
+	margin-top: 15px;
+	border: 2px solid #CAFFFF;
+}
+
+.five-1{
+	float: left;
+	width: 100%;
+	height: 120px;
+	background-color: rgb(238,246,255);
+}
+.five-2{
+	float: left;
+	width: 100%;
+	height: 130px;
+}
+
+.five-2 input:nth-child(1){
+	margin-top: 30px;
+	margin-left: 40px;
+	border: 2px solid grey;
+}
+.five-2 input{
+	margin-top: 20px;
+	margin-left: 24.5px;
+	border: 2px solid grey;
+}
+
+.five-1 span{
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.five-1 a{
+	color: red;
+	text-decoration: none;
+}
+.six{
+	float: left;
+	width:80%;
+	height: 40px;
+	margin: 0% 10%;
+	display: inline-block;
+	margin-top: 15px;
+	background-color: rgb(238,246,255);
+	text-align: center;
+}
+.six input{
+	background-color: #CAFFFF;
+	color: #0080FF;
+	font-size: 20px;
+	font-weight: 600;
+	width: 100px;
+	height: 40px;
+}
